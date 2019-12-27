@@ -71,7 +71,7 @@
     "jsdom": "^15.2.1",
     "lodash.get": "^4.4.2",
     "nuxt-class-component": "^1.3.0",
-    "nuxt-edge": "^2.11.1-26288650.0cb2df73",
+    "nuxt-edge": "^2.11.1-26290089.0cb2df73",
     "puppeteer": "^2.0.0",
     "standard-version": "^7.0.1"
   }
